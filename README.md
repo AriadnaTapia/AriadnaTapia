@@ -1,6 +1,6 @@
 ![Banner](Banner%20Github%20Ari.png)
 
-### :hammer_and_wrench: Sobre mí
+### Sobre mí
 
 ¡Hola! Soy Ariadna Tapia 👋  
 Acabo de terminar un bootcamp como Data Scientist. 
@@ -8,7 +8,7 @@ Este repositorio es una pequeña ventana a mi camino: quién soy, qué estoy apr
 
 ---
 
-### :hammer_and_wrench: 🚀 Mi conocimiento:
+### 🚀 Mi conocimiento:
 
 - Python para análisis de datos
 - Pandas, NumPy, Matplotlib, Seaborn
@@ -17,7 +17,7 @@ Este repositorio es una pequeña ventana a mi camino: quién soy, qué estoy apr
 - Jupyter Notebooks para documentar mis procesos
 
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### Lenguajes y herramientas :
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -30,7 +30,7 @@ Este repositorio es una pequeña ventana a mi camino: quién soy, qué estoy apr
 
 ---
 
-### :hammer_and_wrench: 🌱 En proceso...
+### 🌱 En proceso...
 
 - Aprendiendo sobre evaluación de modelos y validación cruzada
 - Explorando nuevas herramientas como Streamlit y Git
@@ -38,14 +38,12 @@ Este repositorio es una pequeña ventana a mi camino: quién soy, qué estoy apr
 
 ---
 
-### :hammer_and_wrench: 📬 Contacto
+### 📬 Contacto
 
 Si quieres saber más sobre mi trabajo o colaborar en algo, puedes encontrarme en:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariadna-tapia)
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arilur11@hotmail.com)
 
-Gracias por pasar por aquí 🌟
+### Gracias por pasar por aquí 🌟
 
-
-### :hammer_and_wrench: Lenguajes y herramientas :
