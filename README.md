@@ -1,16 +1,36 @@
-## Hi there 👋
+Data Scientist
 
-<!--
-**AriadnaTapia/AriadnaTapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mí
 
-Here are some ideas to get you started:
+¡Hola! Soy Ariadna Tapia 👋  
+Acabo de terminar un bootcamp como Data Scientist. 
+Este repositorio es una pequeña ventana a mi camino: quién soy, qué estoy aprendiendo y los proyectos que estoy construyendo mientras estudio y practico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Lo que estoy aprendiendo
+
+- Python para análisis de datos
+- Pandas, NumPy, Matplotlib, Seaborn
+- SQL para consultas complejas
+- Scikit-learn para modelos de Machine Learning
+- Jupyter Notebooks para documentar mis procesos
+
+---
+
+## 🌱 En proceso...
+
+- Aprendiendo sobre evaluación de modelos y validación cruzada
+- Explorando nuevas herramientas como Streamlit y Git
+- Mejorando mis habilidades de visualización y comunicación de resultados
+
+---
+
+## 📬 Contacto
+
+Si quieres saber más sobre mi trabajo o colaborar en algo, puedes encontrarme en:
+
+- [LinkedIn](www.linkedin.com/in/ariadna-tapia)
+- [Email](arilur11@hotmail.com)
+
+Gracias por pasar por aquí 🌟
