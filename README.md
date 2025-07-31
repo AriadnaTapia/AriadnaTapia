@@ -1,3 +1,4 @@
+![Banner](Banner%20Github%20Ari.png)
 Data Scientist
 
 # Sobre mí
