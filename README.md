@@ -30,6 +30,7 @@ Este repositorio es una pequeña ventana a mi camino: quién soy, qué estoy apr
 
 Si quieres saber más sobre mi trabajo o colaborar en algo, puedes encontrarme en:
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 - [LinkedIn](www.linkedin.com/in/ariadna-tapia)
 - [Email](arilur11@hotmail.com)
 
